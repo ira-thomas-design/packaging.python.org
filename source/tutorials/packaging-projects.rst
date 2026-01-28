@@ -534,4 +534,4 @@ some things you can do:
 
 
 .. _hatchling-config: https://hatch.pypa.io/latest/config/metadata/
-.. _pdm-config: https://pdm-project.org/latest/reference/pep621/
+.. _pdm-config: https://pdm-project.org/latest/reference/pep621/source/tutorials/packaging-projects.rst
